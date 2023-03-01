@@ -1,0 +1,35 @@
+{
+    "Total": [
+        {
+            "TotalKg": "0",
+            "Unit": "Kgs"
+        }
+    ],
+
+    "Products": [
+        {
+            "Id" : "P1",
+            "Material": "Portátil",
+            "Brand": "Compaq",
+            "Model": "610",
+            "Weight": "3000",
+            "Price": "300",
+        },
+        {
+            "Id" : "P2",
+            "Material": "PC",
+            "Brand": "Compaq 2",
+            "Model": "1610",
+            "Weight": "7890",
+            "Price": "800",
+        },
+        {
+            "Id" : "P3",
+            "Material": "Grapadora",
+            "Brand": "American Crafts",
+            "Model": "1600",
+            "Weight": "9087",
+            "Price": "20",
+        }
+    ]
+}

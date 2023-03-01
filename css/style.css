@@ -1,0 +1,6 @@
+/* Enter your custom styles here */
+
+.myIconTabBarClass .sapMITBHead {
+    display: flex;
+    justify-content: space-between;
+}
